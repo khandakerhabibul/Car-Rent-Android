@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649787342776",
+    "firebase_url": "https://projectvaragari.firebaseio.com",
+    "project_id": "projectvaragari",
+    "storage_bucket": "projectvaragari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649787342776:android:74e789b801b38418dc594d",
+        "android_client_info": {
+          "package_name": "com.example.projectvaragari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649787342776-pppiuiertjp8006hl4remmstedu2dso1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectvaragari",
+            "certificate_hash": "fc980d5f40f5969a1750cb25fc4d17a4c8a06261"
+          }
+        },
+        {
+          "client_id": "649787342776-a5hjrrkce2r96menchfdbaqm6n9jgefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9xlD84pC1Ak2dovMw5yodAOb2J4QBII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649787342776-a5hjrrkce2r96menchfdbaqm6n9jgefe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
